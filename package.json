@@ -1,0 +1,23 @@
+{
+  "name": "devil-fruits",
+  "version": "1.0.0",
+  "description": "Returns information related to One Piece devil fruits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conorkenn/DevilFruits.git"
+  },
+  "keywords": [
+    "One",
+    "Piece"
+  ],
+  "author": "Conor Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conorkenn/DevilFruits/issues"
+  },
+  "homepage": "https://github.com/conorkenn/DevilFruits#readme"
+}
