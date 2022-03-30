@@ -447,6 +447,447 @@ const fruits = [
         type: 'Paramecia',
         current_user: 'Charlotte Mont-d\'Or'
     },
+    {
+        id: 61,
+        name: 'Kuri Kuri no Mi',
+        eng_name: 'Cream-Cream Fruit',
+        type: 'Paramecia',
+        current_user: 'Charlotte Opera'
+    },
+    {
+        id: 62,
+        name: 'Shibo Shibo no Mi',
+        eng_name: 'Wring-Wring Fruit',
+        type: 'Paramecia',
+        current_user: 'Charlotte Smoothie'
+    },
+    {
+        id: 63,
+        name: 'Memo Memo no Mi',
+        eng_name: 'Memo-Memo Fruit',
+        type: 'Paramecia',
+        current_user: 'Charlotte Pudding'
+    },
+    {
+        id: 64,
+        name: 'Mochi Mochi no Mi',
+        eng_name: 'Mochi-Mochi Fruit',
+        type: 'Paramecia',
+        current_user: 'Charlotte Katakuri'
+    },
+    {
+        id: 65,
+        name: 'Hoya Hoya no Mi',
+        eng_name: 'Puff-Puff Fruit',
+        type: 'Paramecia',
+        current_user: 'Charlotte Daifuku'
+    },
+    {
+        id: 66,
+        name: 'Netsu Netsu no Mi',
+        eng_name: 'Heat-Heat Fruit',
+        type: 'Paramecia',
+        current_user: 'Charlotte Oven'
+    },
+    {
+        id: 67,
+        name: 'Kuku Kuku no Mi',
+        eng_name: 'Kuku Kuku no Mi',
+        type: 'Paramecia',
+        current_user: 'Streusen'
+    },
+    {
+        id: 68,
+        name: 'Gocha Gocha no Mi',
+        eng_name: 'Pile-Pile Fruit',
+        type: 'Paramecia',
+        current_user: 'Charlotte Newshi'
+    },
+    {
+        id: 69,
+        name: 'Oshi Oshi no Mi',
+        eng_name: 'Push-Push Fruit',
+        type: 'Paramecia',
+        current_user: 'Morley'
+    },
+    {
+        id: 70,
+        name: 'Kobu Kobu no Mi',
+        eng_name: 'Pump-Pump Fruit',
+        type: 'Paramecia',
+        current_user: 'Belo Betty'
+    },
+    {
+        id: 71,
+        name: 'Kibi Kibi no Mi',
+        eng_name: 'Millet-Millet Fruit',
+        type: 'Paramecia',
+        current_user: 'Tama'
+    },
+    {
+        id: 72,
+        name: 'Toki Toki no Mi',
+        eng_name: 'Time-Time Fruit',
+        type: 'Paramecia',
+        current_user: 'Kozuki Toki'
+    },
+    {
+        id: 73,
+        name: 'Juku Juku no Mi',
+        eng_name: 'Ripe-Ripe Fruit',
+        type: 'Paramecia',
+        current_user: 'Shinobu'
+    },
+    {
+        id: 74,
+        name: 'Maki Maki no Mi',
+        eng_name: 'Scroll-Scroll Fruit',
+        type: 'Paramecia',
+        current_user: 'Raizo'
+    },
+    {
+        id: 75,
+        name: 'Ushi Ushi no Mi, Model: Bison',
+        eng_name: 'Ox-Ox Fruit, Bison Form',
+        type: 'Zoan',
+        current_user: 'Dalton'
+    },
+    {
+        id: 76,
+        name: 'Hito Hito no Mi',
+        eng_name: 'Human-Human Fruit',
+        type: 'Zoan',
+        current_user: 'Tony Tony Chopper'
+    },
+    {
+        id: 77,
+        name: 'Tori Tori no Mi, Model: Falcon',
+        eng_name: 'Bird-Bird Fruit Model: The Falcon',
+        type: 'Zoan',
+        current_user: 'Pell'
+    },
+    {
+        id: 78,
+        name: 'Inu Inu no Mi, Model: Dachshund',
+        eng_name: 'Dog-Dog Fruit, Model: Dachshund',
+        type: 'Zoan',
+        current_user: 'Lassoo'
+    },
+    {
+        id: 79,
+        name: 'Mogu Mogu no Mi',
+        eng_name: 'Mole-Mole Fruit',
+        type: 'Zoan',
+        current_user: 'Drophy'
+    },
+    {
+        id: 80,
+        name: 'Inu Inu no Mi, Model: Jackal',
+        eng_name: 'Dog-Dog Fruit, Model: Jackal',
+        type: 'Zoan',
+        current_user: 'Chaka'
+    },
+    {
+        id: 81,
+        name: 'Uma Uma no Mi',
+        eng_name: 'Horse-Horse Fruit',
+        type: 'Zoan',
+        current_user: 'Pierre'
+    },
+    {
+        id: 82,
+        name: 'Neko Neko no Mi, Model: Leopard',
+        eng_name: 'Cat-Cat Fruit, Model: Leopard',
+        type: 'Zoan',
+        current_user: 'Rob Lucci'
+    },
+    {
+        id: 83,
+        name: 'Zou Zou no Mi',
+        eng_name: 'Elephant-Elephant Fruit',
+        type: 'Zoan',
+        current_user: 'Funkfreed'
+    },
+    {
+        id: 84,
+        name: 'Inu Inu no Mi, Model: Wolf',
+        eng_name: 'Dog-Dog Fruit Model Wolf',
+        type: 'Zoan',
+        current_user: 'Jabra'
+    },
+    {
+        id: 85,
+        name: 'Ushi Ushi no Mi, Model: Giraffe',
+        eng_name: 'Ox-Ox Fruit, Model: Giraffe',
+        type: 'Zoan',
+        current_user: 'Kaku'
+    },
+    {
+        id: 86,
+        name: 'Ryu Ryu no Mi, Model: Allosaurus',
+        eng_name: 'Dragon-Dragon Fruit, Allosaurus Model',
+        type: 'Ancient Zoan',
+        current_user: 'X Drake'
+    },
+    {
+        id: 87,
+        name: 'Hebi Hebi no Mi, Model: King Cobra',
+        eng_name: 'Snake-Snake Fruit: Model King Cobra',
+        type: 'Zoan',
+        current_user: 'Boa Marigold'
+    },
+    {
+        id: 88,
+        name: 'Hebi Hebi no Mi, Model: Anaconda',
+        eng_name: 'Snake-Snake Fruit: Model Anaconda',
+        type: 'Zoan',
+        current_user: 'Boa Sandersonia'
+    },
+    {
+        id: 89,
+        name: 'Tori Tori no Mi, Model: Phoenix',
+        eng_name: 'Bird-Bird Fruit Model: Phoenix',
+        type: 'Mythical Zoan',
+        current_user: 'Marco'
+    },
+    {
+        id: 90,
+        name: 'Hito Hito no Mi, Model: Daibutsu',
+        eng_name: 'Human-Human Fruit, Model: Buddha',
+        type: 'Mythical Zoan',
+        current_user: 'Sengoku'
+    },
+    {
+        id: 91,
+        name: 'Kame Kame no Mi',
+        eng_name: 'Turtle-Turtle Fruit',
+        type: 'Zoan',
+        current_user: 'Pekoms'
+    },
+    {
+        id: 92,
+        name: 'Sara Sara no Mi, Model: Axolotl',
+        eng_name: 'Sala-Sala Fruit, Model: Axolotl',
+        type: 'Zoan',
+        current_user: 'Unknown'
+    },
+    {
+        id: 93,
+        name: 'Mushi Mushi no Mi, Model: Kabutomushi',
+        eng_name: 'Bug-Bug Fruit, Model: Rhinoceros beetle',
+        type: 'Zoan',
+        current_user: 'Kabu'
+    },
+    {
+        id: 94,
+        name: 'Mushi Mushi no Mi, Model: Suzumebachi',
+        eng_name: 'Bug-Bug Fruit, Model: Suzumebachi',
+        type: 'Zoan',
+        current_user: 'Bian'
+    },
+    {
+        id: 95,
+        name: 'Zou Zou no Mi, Model: Mammoth',
+        eng_name: 'Eleph-Eleph Fruit, Model: Mammoth',
+        type: 'Ancient Zoan',
+        current_user: 'Jack'
+    },
+    {
+        id: 96,
+        name: 'Tama Tama no Mi',
+        eng_name: 'Egg-Egg Fruit',
+        type: 'Zoan',
+        current_user: 'Tamago'
+    },
+    {
+        id: 97,
+        name: 'Tori Tori no Mi, Model: Albatross',
+        eng_name: 'Bird-Bird Fruit, Model: Albatross',
+        type: 'Zoan',
+        current_user: 'Morgans'
+    },
+    {
+        id: 98,
+        name: 'Inu Inu no Mi, Model: Tanuki',
+        eng_name: 'Dog-Dog Fruit, Model: Tanuki',
+        type: 'Zoan',
+        current_user: 'Bunbuku'
+    },
+    {
+        id: 99,
+        name: 'Uo Uo no Mi, Model: Seiryu',
+        eng_name: 'Fish-Fish Fruit, Model: Azure Dragon',
+        type: 'Mythical Zoan',
+        current_user: 'Kaidou'
+    },
+    {
+        id: 100,
+        name: 'Inu Inu no Mi, Model: Kyubi no Kitsune',
+        eng_name: 'Dog-Dog Fruit, Model: Nine Tailed Fox',
+        type: 'Mythical Zoan',
+        current_user: 'Catarina Devon'
+    },
+    {
+        id: 101,
+        name: 'Hebi Hebi no Mi, Model: Yamata no Orochi',
+        eng_name: 'Snake-Snake Fruit, Model: Yamata-no-Orochi',
+        type: 'Mythical Zoan',
+        current_user: 'Kurozumi Orochi'
+    },
+    {
+        id: 102,
+        name: 'Hebi Hebi no Mi, Model: Yamata no Orochi',
+        eng_name: 'Snake-Snake Fruit, Model: Yamata-no-Orochi',
+        type: 'Mythical Zoan',
+        current_user: 'Kurozumi Orochi'
+    },
+    {
+        id: 103,
+        name: 'Ryu Ryu no Mi, Model: Spinosaurus',
+        eng_name: 'Dragon-Dragon Fruit, Model: Spinosaurus',
+        type: 'Ancient Zoan',
+        current_user: 'Page One'
+    },
+    {
+        id: 104,
+        name: 'Ryu Ryu no Mi, Model: Pteranodon',
+        eng_name: 'Dragon-Dragon Fruit, Pteranodon Model',
+        type: 'Ancient Zoan',
+        current_user: 'King'
+    },
+    {
+        id: 105,
+        name: 'Hito Hito no Mi, Model: Onyudo',
+        eng_name: 'Human-Human Fruit Model Onyudo',
+        type: 'Mythical Zoan',
+        current_user: 'Onimaru'
+    },
+    {
+        id: 106,
+        name: 'Ryu Ryu no Mi, Model: Brachiosaurus',
+        eng_name: 'Dragon-Dragon Fruit, Model: Brachiosaurus',
+        type: 'Ancient Zoan',
+        current_user: 'Queen'
+    },
+    {
+        id: 107,
+        name: 'Ryu Ryu no Mi, Model: Pachycephalosaurus',
+        eng_name: 'Dragon-Dragon Fruit, Model: Pachycephalosaurus',
+        type: 'Ancient Zoan',
+        current_user: 'Ulti'
+    },
+    {
+        id: 108,
+        name: 'Ryu Ryu no Mi, Model: Triceratops',
+        eng_name: 'Dragon-Dragon Fruit, Model: Triceratops',
+        type: 'Ancient Zoan',
+        current_user: 'Sasaki'
+    },
+    {
+        id: 109,
+        name: 'Kumo Kumo no Mi, Model: Rosamygale Grauvogeli',
+        eng_name: 'Spider-Spider Fruit, Rosamygale Grauvogeli Model',
+        type: 'Ancient Zoan',
+        current_user: 'Black Maria'
+    },
+    {
+        id: 110,
+        name: 'Neko Neko no Mi, Model: Saber Tiger',
+        eng_name: 'Cat-Cat Fruit, Model: Saber-Toothed Tiger',
+        type: 'Ancient Zoan',
+        current_user: 'Who\'s-Who'
+    },
+    {
+        id: 111,
+        name: 'Inu Inu no Mi, Model: Okuchi no Makami',
+        eng_name: 'Dog-Dog Fruit, Model: Okuchi-no-Makami',
+        type: 'Mythical Zoan',
+        current_user: 'Yamato'
+    },
+    {
+        id: 112,
+        name: 'Hito Hito no Mi, Model: Nika',
+        eng_name: 'Human-Human Fruit, Model: Nika',
+        type: 'Mythical Zoan',
+        current_user: 'Monkey D. Luffy'
+    },
+    {
+        id: 112,
+        name: 'Moku Moku no Mi',
+        eng_name: 'Plume-Plume Fruit',
+        type: 'Logia',
+        current_user: 'Smoker'
+    },
+    {
+        id: 113,
+        name: 'Suna Suna no Mi',
+        eng_name: 'Sand-Sand Fruit',
+        type: 'Logia',
+        current_user: 'Crocodile'
+    },
+    {
+        id: 114,
+        name: 'Mera Mera no Mi',
+        eng_name: 'Flame-Flame Fruit',
+        type: 'Logia',
+        current_user: 'Sabo'
+    },
+    {
+        id: 115,
+        name: 'Goro Goro no Mi',
+        eng_name: 'Rumble-Rumble Fruit',
+        type: 'Logia',
+        current_user: 'Enel'
+    },
+    {
+        id: 116,
+        name: 'Hie Hie no Mi',
+        eng_name: 'Ice-Ice Fruit',
+        type: 'Logia',
+        current_user: 'Kuzan'
+    },
+    {
+        id: 117,
+        name: 'Yami Yami no Mi',
+        eng_name: 'Dark-Dark Fruit',
+        type: 'Logia',
+        current_user: 'Marshall D. Teach'
+    },
+    {
+        id: 118,
+        name: 'Pika Pika no Mi',
+        eng_name: 'Glint-Glint Fruit',
+        type: 'Logia',
+        current_user: 'Borsalino'
+    },
+    {
+        id: 119,
+        name: 'Magu Magu no Mi',
+        eng_name: 'Mag-Mag Fruit',
+        type: 'Logia',
+        current_user: 'Sakazuki'
+    },
+    {
+        id: 120,
+        name: 'Numa Numa no Mi',
+        eng_name: 'Swamp-Swamp Fruit',
+        type: 'Logia',
+        current_user: 'Caribou'
+    },
+    {
+        id: 121,
+        name: 'Gasu Gasu no Mi',
+        eng_name: 'Gas-Gas Fruit',
+        type: 'Logia',
+        current_user: 'Caesar Clown'
+    },
+    {
+        id: 122,
+        name: 'Yuki Yuki no Mi',
+        eng_name: 'Snow-Snow Fruit',
+        type: 'Logia',
+        current_user: 'Monet'
+    },
 
 ]
 
